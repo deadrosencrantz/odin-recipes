@@ -1,0 +1,10 @@
+* {
+background-color: #c76ea9; 
+color: #ffffff   
+}
+
+.box {
+border: solid 2px;
+border-color: #ffffff;
+padding: 10px 10px;
+}
