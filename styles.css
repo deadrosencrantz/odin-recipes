@@ -5,6 +5,12 @@ font-weight: bolder;
 align:center;
 }
 
+.box {
+border: solid 2px;
+border-color: #ffffff;
+padding: 10px;
+}
+
 body {
 color:#ffffff;  
 }
@@ -21,8 +27,4 @@ a:hover {
   color: #ffffff;
 }
 
-.box {
-border: solid 2px;
-border-color: #ffffff;
-padding: 10px;
-}
+
