@@ -1,5 +1,5 @@
 * {
-background-color: #ffa5e1; 
+background-color: #ff67cc; 
 font-family: Garamond, "Times New Roman", serif;
 font-weight: bolder; 
 align:center;
@@ -7,15 +7,16 @@ align:center;
 
 .box,
 .box > p,
-.box > p > strong
+.box > p > strong,
+.box > p > em
  {
 background-color: #ffffff;
 color:#000000
  }
 
  .box {
-border: solid 2px;
-border-color: #fc7fce;
+border: solid 4px;
+border-color: #ffa9df;
 padding: 10px 20px;
 margin: 10px;
 }
