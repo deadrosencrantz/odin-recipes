@@ -11,8 +11,13 @@ border-color: #ffffff;
 padding: 10px;
 }
 
+h1 {
+font-size: 40px;    
+}
+
 body {
-color:#ffffff;  
+color:#ffffff;
+font-size: 20px; 
 }
 
 ul {
