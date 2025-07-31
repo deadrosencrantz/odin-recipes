@@ -1,10 +1,28 @@
 * {
-background-color: #c76ea9; 
-color: #ffffff   
+background-color: #c24598; 
+font-family: Garamond, "Times New Roman", serif;
+font-weight: bolder; 
+align:center;
+}
+
+body {
+color:#ffffff;  
+}
+
+ul {
+color:#ffffff;    
+}
+
+a {
+color:#ffc2ed;
+}
+
+a:hover {
+  color: #ffffff;
 }
 
 .box {
 border: solid 2px;
 border-color: #ffffff;
-padding: 10px 10px;
+padding: 10px;
 }
