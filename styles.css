@@ -21,6 +21,11 @@ padding: 10px 20px;
 margin: 10px;
 }
 
+img {
+ border: solid 4px;
+border-color: #ffa9df;   
+}
+
 h1 {
 font-size: 40px;    
 }
@@ -39,7 +44,7 @@ color:#ffffff;
 }
 
 a {
-color:#c3499e;
+color:#ffc5f7;
 }
 
 a:hover {
